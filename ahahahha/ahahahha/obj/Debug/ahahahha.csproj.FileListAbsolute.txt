@@ -1,0 +1,7 @@
+C:\Vanko 9a\ahahahha\ahahahha\bin\Debug\ahahahha.exe.config
+C:\Vanko 9a\ahahahha\ahahahha\bin\Debug\ahahahha.exe
+C:\Vanko 9a\ahahahha\ahahahha\bin\Debug\ahahahha.pdb
+C:\Vanko 9a\ahahahha\ahahahha\obj\Debug\ahahahha.csproj.AssemblyReference.cache
+C:\Vanko 9a\ahahahha\ahahahha\obj\Debug\ahahahha.csproj.CoreCompileInputs.cache
+C:\Vanko 9a\ahahahha\ahahahha\obj\Debug\ahahahha.exe
+C:\Vanko 9a\ahahahha\ahahahha\obj\Debug\ahahahha.pdb

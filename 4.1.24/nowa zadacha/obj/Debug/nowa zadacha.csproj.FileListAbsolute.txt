@@ -1,0 +1,7 @@
+C:\Vanko 9a\4.1.24\nowa zadacha\bin\Debug\nowa zadacha.exe.config
+C:\Vanko 9a\4.1.24\nowa zadacha\bin\Debug\nowa zadacha.exe
+C:\Vanko 9a\4.1.24\nowa zadacha\bin\Debug\nowa zadacha.pdb
+C:\Vanko 9a\4.1.24\nowa zadacha\obj\Debug\nowa zadacha.csproj.AssemblyReference.cache
+C:\Vanko 9a\4.1.24\nowa zadacha\obj\Debug\nowa zadacha.csproj.CoreCompileInputs.cache
+C:\Vanko 9a\4.1.24\nowa zadacha\obj\Debug\nowa zadacha.exe
+C:\Vanko 9a\4.1.24\nowa zadacha\obj\Debug\nowa zadacha.pdb

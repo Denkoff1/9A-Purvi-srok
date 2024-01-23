@@ -1,0 +1,7 @@
+C:\Vanko 9a\18.01.24\18.01.24\bin\Debug\18.01.24.exe.config
+C:\Vanko 9a\18.01.24\18.01.24\bin\Debug\18.01.24.exe
+C:\Vanko 9a\18.01.24\18.01.24\bin\Debug\18.01.24.pdb
+C:\Vanko 9a\18.01.24\18.01.24\obj\Debug\18.01.24.csproj.AssemblyReference.cache
+C:\Vanko 9a\18.01.24\18.01.24\obj\Debug\18.01.24.csproj.CoreCompileInputs.cache
+C:\Vanko 9a\18.01.24\18.01.24\obj\Debug\18.01.24.exe
+C:\Vanko 9a\18.01.24\18.01.24\obj\Debug\18.01.24.pdb

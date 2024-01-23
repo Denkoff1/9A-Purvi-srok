@@ -1,0 +1,7 @@
+C:\Vanko 9a\12345\12345\bin\Debug\12345.exe.config
+C:\Vanko 9a\12345\12345\bin\Debug\12345.exe
+C:\Vanko 9a\12345\12345\bin\Debug\12345.pdb
+C:\Vanko 9a\12345\12345\obj\Debug\12345.csproj.AssemblyReference.cache
+C:\Vanko 9a\12345\12345\obj\Debug\12345.csproj.CoreCompileInputs.cache
+C:\Vanko 9a\12345\12345\obj\Debug\12345.exe
+C:\Vanko 9a\12345\12345\obj\Debug\12345.pdb

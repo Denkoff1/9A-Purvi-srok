@@ -1,0 +1,7 @@
+C:\Vanko 9a\Izpitvane\izp 3\bin\Debug\izp 3.exe.config
+C:\Vanko 9a\Izpitvane\izp 3\bin\Debug\izp 3.exe
+C:\Vanko 9a\Izpitvane\izp 3\bin\Debug\izp 3.pdb
+C:\Vanko 9a\Izpitvane\izp 3\obj\Debug\izp 3.csproj.AssemblyReference.cache
+C:\Vanko 9a\Izpitvane\izp 3\obj\Debug\izp 3.csproj.CoreCompileInputs.cache
+C:\Vanko 9a\Izpitvane\izp 3\obj\Debug\izp 3.exe
+C:\Vanko 9a\Izpitvane\izp 3\obj\Debug\izp 3.pdb
